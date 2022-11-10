@@ -1,9 +1,9 @@
 # 42-libft
-The libft project at 42
 
 This project is about writing a C library. It contains many general-purpose functions.
 
 C programming can be very tedious without access to very useful standard functions. This project is about understanding how these functions work, how to implement them, and learning how to use them.
+<h1></h1>
 
 Этот проект посвящен написанию библиотеки на языке Си.
 Она содержит множество функций общего назначения.
